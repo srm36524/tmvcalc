@@ -1,9 +1,10 @@
 import streamlit as st
 import numpy as np
 import numpy_financial as npf
+import pandas as pd  # Add this line to import pandas
 
 # Title of the app
-st.title("Financial Calculators - SRM")
+st.title("Financial Calculators - SRM Analytics")
 
 # Disclaimer
 st.sidebar.markdown("### Disclaimer")
