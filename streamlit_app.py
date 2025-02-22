@@ -3,7 +3,7 @@ import numpy as np
 import numpy_financial as npf
 
 # Title of the app
-st.title("Time Value of Money (TVM) Calculators")
+st.title("Time Value of Money (TVM) Calculators - SRM")
 
 # Sidebar for navigation
 st.sidebar.title("Navigation")
